@@ -1,1 +1,2 @@
 git init ----> crea un nuevo repositorio
+git remote -v  -----> para ver el origen del repositorio
